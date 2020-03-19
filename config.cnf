@@ -1,0 +1,3 @@
+[details]
+password = qwerty
+host = mongodb://localhost:27017/TCS
